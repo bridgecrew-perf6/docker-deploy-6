@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: echo "Hello World"
+  web: npm run start
